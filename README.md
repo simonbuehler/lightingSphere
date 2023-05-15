@@ -4,7 +4,7 @@
 
 The **Kinograph Lighting Sphere** is a parametric model designed in [FreeCAD](https://www.freecadweb.org/downloads.php), an open-source 3D parametric modeler. It aims to provide a comprehensive solution for kinograph lighting.
 
-This project is based on an original design by [@cpixip](https://github.com/cpixip) and has been adjusted to be fully parametric. It has been updated to use current COB LED PCBs with a dimension of 13.5mm. You can view the original forum post [here](https://forums.kinograph.cc/t/v2-dev-milestone-3-lighting/1576/36?u=d_fens).
+This project is based on an original design by [@cpixip](https://github.com/cpixip) and has been adjusted to be fully parametric. It has been updated to use current COB LED PCBs with a dimension of 13.5mm. You can view the original forum post [here](https://forums.kinograph.cc/t/v2-dev-milestone-3-lighting/1576/37?u=d_fens).
 
 ## Features 🌟
 
