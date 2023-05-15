@@ -1,6 +1,5 @@
 # Kinograph Lighting Sphere - FreeCAD Project 📐💡
 
-![project-banner](./images/github-header-image.png)
 
 The **Kinograph Lighting Sphere** is a parametric model designed in [FreeCAD](https://www.freecadweb.org/downloads.php), an open-source 3D parametric modeler. It aims to provide a comprehensive solution for kinograph lighting.
 
