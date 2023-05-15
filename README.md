@@ -33,6 +33,7 @@ The model parameters can be modified by accessing the embedded spreadsheet in th
 
 * **Chamfer and Fillet**: Due to inherent topology problems in FreeCAD, the last chamfer and fillet might break after making changes in the spreadsheet. It's a known issue and you will have to redo them manually after modifying parameters.
 * **Airflow Check**: Ensure that there is proper airflow from the fan to the LED heatsink. This is critical for maintaining optimal operating temperature and preventing overheating.
+* **STL Export** Make sure to rotate the individual parts accordingly before printing them.
 
 ## Feedback & Contributing 🤝
 
